@@ -1,5 +1,5 @@
 # Imager.go
-### An application to download random public domain images in different dimensions automatically into your disk.
+## Imager.go allows you to download as many public domain images as many you want in different dimensions randomly or you define them in a length, and let Imager.go download all the photos for you in your computer!
 ![Imager.go downloading images](https://raw.githubusercontent.com/rakibtg/Imager.go/master/static/Screen%20Shot%202017-08-13%20at%209.02.30%20PM.png "Imager.go running")
 
 You might be working on a new design or building a working prototype and you need a tons of images in different dimensions. 
@@ -7,8 +7,7 @@ You might be working on a new design or building a working prototype and you nee
 Now collecting those images from the internet and saving them one after another is difficult, it did'nt work i have tried.
 Okay, here is Imager.go app for y'all 😉
 
-**Imager.go** will download as many images as many you want from Unsplash right into your disk. It also allow you to set a range 
-of images width and height.
+**Imager.go** will download as many images as many you want from Unsplash right into your disk. It also allow you to set a range of images width and height.
 
 **How to run the application?**
 If you do not care about the code that powers Imager.go then download the application.
