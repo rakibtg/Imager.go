@@ -14,7 +14,7 @@ of images width and height.
 If you do not care about the code that powers Imager.go then download the application.
 - Mac OS https://github.com/rakibtg/Imager.go/blob/master/bin/ImagerMac?raw=true
 - Linux 64bit https://github.com/rakibtg/Imager.go/blob/master/bin/ImagerLinux?raw=true
-- Windows 64bit https://github.com/rakibtg/Imager.go/blob/master/bin/ImagerWindows?raw=true
+- Windows 64bit https://github.com/rakibtg/Imager.go/blob/master/bin/ImagerWindows.exe?raw=true
 
 Open the downloaded file in a terminal.
 
